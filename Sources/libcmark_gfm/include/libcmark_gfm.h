@@ -19,7 +19,7 @@
 #include "cmark-gfm-extension_api.h"
 #include "cmark-gfm-extensions_export.h"
 #include "cmark-gfm.h"
-#include "config.h"
+#include "config1.h"
 #include "ext_scanners.h"
 #include "footnotes.h"
 #include "houdini.h"
